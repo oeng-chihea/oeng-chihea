@@ -43,6 +43,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,angular,vue,laravel,nodejs,express,tailwind,threejs&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native_Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
