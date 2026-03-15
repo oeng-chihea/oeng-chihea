@@ -1,12 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Oeng Chihea
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer+%F0%9F%92%BB;Always+Learning+%26+Building+Cool+Things+%F0%9F%94%A5;Consistency+Beats+Talent+%E2%9A%A1;Turning+Ideas+Into+Reality+Through+Code+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=oeng-chihea&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+# 👋 Hi, I'm Oeng Chihea
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -68,7 +60,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWUyaGw2NHpwbXR6Ynk3NzFhc2s4aGo4NXo2eTFvdTFpOWlhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> Database
+## <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30"> Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" />
@@ -97,9 +89,3 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Feel+free+to+connect+with+me!+%F0%9F%98�" alt="Typing SVG" />
-</p>
